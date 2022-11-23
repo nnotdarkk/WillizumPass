@@ -1,0 +1,10 @@
+name: WiliziumPass
+version: 1.0
+api-version: 1.19
+author: Karam
+website: https://github.com/nnotdarkk
+main: fr.wilizium.pass.Main
+commands:
+  pass:
+    aliases: [bp, passedecombat, passe, battlepass, journal]
+  resetplayers:
